@@ -1,2 +1,4 @@
-# Data-Analytics-with-SQL---BrightLearn-
-This was a research assignment to answer questions about the fundamentals of data analytics. 
+# Data-Analytics-with-SQL---BrightLearn- 
+This assignment covered the core foundations of data analytics and data science. It explored how data is stored, managed, and processed through concepts such as databases, data warehouses, data lakes, and ETL processes. It also introduced key technical areas including machine learning, artificial intelligence, APIs, cloud computing, and programming tools like Python and Jupyter Notebooks. The assignment aimed to build a clear understanding of how modern data systems work and how different technologies connect to support data driven decision making.
+
+The key takeaway is that data plays a central role in today’s world, and understanding how to work with it is a valuable skill. I learned the importance of clean and well structured data, the impact of AI and machine learning in solving real world problems, and the need for ethical and responsible use of data. This assignment also showed the different career paths in data and the tools required in each role, which helped me better understand how to grow as a data analyst.
